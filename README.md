@@ -16,7 +16,6 @@ As a Computer Science student, I'm really into coding and learning new stuff. I 
 
 ---
 
-### Github stats:
 <p>
   <a href="https://github.com/jovemfe">
     <img src="https://github-readme-stats.vercel.app/api?username=jovemfe&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - jovemfe">
